@@ -1,0 +1,9 @@
+.fotosApresentacao {
+    display: flex;
+    margin: 10px;
+}
+.fotosApresentacao img{
+    display: block;
+    width: 20%;
+    height: 10%;
+}
